@@ -1,0 +1,9 @@
+d2I 
+
+
+
+Understanding DL 
+
+
+
+DL with PyTorch 

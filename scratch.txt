@@ -1,9 +1,3 @@
-d2I 
-
-
-
-Understanding DL 
-
-
-
-DL with PyTorch 
+d2I - Introduction
+Understanding DL - pg 15
+DL with PyTorch     

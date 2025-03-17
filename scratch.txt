@@ -1,3 +1,3 @@
-d2I - Preliminaries - linear algebra
+d2I - Preliminaries - linear algebra -> 2.3.13. Exercises
 Understanding DL - pg 38, Introduction
-DL with PyTorch - pg 50
+DL with PyTorch - pg 58

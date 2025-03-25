@@ -1,3 +1,3 @@
-d2I - 3. Linear neural Networks for regression
+d2I - preliminary autograd and probability excercises
 Understanding DL - pg 43,  Universal approximation theorem
-DL with PyTorch - pg 284
+DL with PyTorch - pg 367

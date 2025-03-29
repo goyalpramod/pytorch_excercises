@@ -1,3 +1,3 @@
-d2I - Linear Regression
+d2I - 3.1 Linear Regression
 Understanding DL - pg 50, exercises
 DL with PyTorch - Finished

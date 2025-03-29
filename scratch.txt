@@ -1,3 +1,3 @@
-d2I - preliminary probability exercises
+d2I - Linear Regression
 Understanding DL - pg 50, exercises
 DL with PyTorch - Finished

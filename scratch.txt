@@ -1,5 +1,5 @@
 d2I - 3.1 Linear Regression
-Understanding DL - pg 50, exercises
+Understanding DL - pg 50, exercises (Paused) Notebook 3.1 -- Shallow neural networks I
 DL with PyTorch - Finished
 mml - Finished
 DL by Ian Goodfellow - Skipped

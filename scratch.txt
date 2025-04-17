@@ -1,4 +1,4 @@
-d2I - 6 excercises
+d2I - 6 excercises & chapter 7
 Understanding DL - pg 50, exercises (Paused) Notebook 3.1 -- Shallow neural networks I
 DL with PyTorch - Finished
 mml - Finished
